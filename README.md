@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sinhamanav030
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on hyperledger fabric
 - 📫 How to reach me - manavsinha03@gmail.com
 
 <!---
