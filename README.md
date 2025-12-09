@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinhamanav030
 - 👀 I’m interested in distributed systems
-- 🌱 I’m currently learning how to become good software engineer
+- 🌱 I’m currently learning how to build scalable systems
 - 📫 How to reach me - manavsinha03@gmail.com
 
 <!---
